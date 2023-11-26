@@ -12,7 +12,7 @@ const About = () => {
           This website uses the OpenWeatherMap API to gather weather data. It includes details such as temperature, feels-like temperature, humidity, wind speed, and a brief description of the weather conditions.
         </p>
         <p className="text-lg mb-4">
-          Created by Dhruv. Feel free to explore and find out the current weather in your desired locations.
+          Created by Dhruv while learning react.
         </p>
       </div>
     </div>
